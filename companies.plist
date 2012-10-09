@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>40MOVIL</key>
+	<string>40movil.png</string>
+	<key>BANKINTER</key>
+	<string>bankintermovil.png</string>
+	<key>BLAU</key>
+	<string>blaul.png</string>
+	<key>BT</key>
+	<string>btmovil.png</string>
+	<key>CABLEMOVIL</key>
+	<string>cablemovil.png</string>
+	<key>CARREFOUR</key>
+	<string>carrefourmovil.png</string>
+	<key>DISTRIBUIDORA INTERNACIONAL DE ALIMENTACIÓN, S.A.</key>
+	<string>movildia.png</string>
+	<key>DIA</key>
+	<string>movildia.png</string>
+	<key>DIGI SPAIN TELECOM</key>
+	<string>digimobil.png</string>
+	<key>EROSKIMOVIL</key>
+	<string>eroskimovil.png</string>
+	<key>EUROPHONY</key>
+	<string>europhony.png</string>
+	<key>EUSKALTEL</key>
+	<string>euskaltell.png</string>
+	<key>FONYOU</key>
+	<string>fonyou.png</string>
+	<key>HAPPYMOVIL</key>
+	<string>happymovil.png</string>
+	<key>HITS</key>
+	<string>hitsmobile.png</string>
+	<key>HONGDAMOBILE</key>
+	<string>hongdamobile.png</string>
+	<key>HUALONG</key>
+	<string>hualong.png</string>
+	<key>JAZZTEL</key>
+	<string>jazztelmovil.png</string>
+	<key>KPN</key>
+	<string>simyo.png</string>
+	<key>LEBARA</key>
+	<string>lebara.png</string>
+	<key>LEBARA MOVIL</key>
+	<string>lebara.png</string>
+	<key>LLAMAYA</key>
+	<string>llamaya.png</string>
+	<key>LYCAMOBILE, S.L.</key>
+	<string>lycamobile.png</string>
+	<key>LYCAMOBILE</key>
+	<string>lycamobile.png</string>
+	<key>MASMOVIL</key>
+	<string>masmovil.png</string>
+	<key>MIDASMOBILE</key>
+	<string>midasmobile.png</string>
+	<key>MONDIMOVIL</key>
+	<string>mondimovil.png</string>
+	<key>MOVILDATA</key>
+	<string>movidata.png</string>
+	<key>MOVISTAR</key>
+	<string>movistar.png</string>
+	<key>TELEFÓNICA MÓVILES ESPAÑA, S.A.U.</key>
+	<string>movistar.png</string>
+	<key>MUNDIMOVIL</key>
+	<string>mundimovil.png</string>
+	<key>ONO</key>
+	<string>ono.png</string>
+	<key>ORANGE</key>
+	<string>orange.png</string>
+	<key>ORBITEL</key>
+	<string>orbitel.png</string>
+	<key>ORTEL</key>
+	<string>ortel.png</string>
+	<key>PEPEPHONE</key>
+	<string>pepephone.png</string>
+	<key>R CABLE Y TELECOMUNICACIONES</key>
+	<string>rmovil.png</string>
+	<key>RACC</key>
+	<string>racc.png</string>
+	<key>SARENET</key>
+	<string>sarenet.png</string>
+	<key>SWENO</key>
+	<string>sweno.png</string>
+	<key>TALKOUT</key>
+	<string>talkout.png</string>
+	<key>TELECABLE</key>
+	<string>telecable.png</string>
+	<key>THE PHONE HOUSE</key>
+	<string>phonehouse.png</string>
+	<key>TUENTI</key>
+	<string>tuenti.png</string>
+	<key>VECTONE MOVIL</key>
+	<string>vectone.png</string>
+	<key>VIVAMOBILE</key>
+	<string>vivamobile.png</string>
+	<key>VIZZAVI</key>
+	<string>vizzavi.png</string>
+	<key>VODAFONE</key>
+	<string>vodafone.png</string>
+	<key>VODAFONE ESPAÑA, S.A.U.</key>
+	<string>vodafone.png</string>
+	<key>WPR</key>
+	<string>wpr.png</string>
+	<key>YOIGO</key>
+	<string>yoigo.png</string>
+</dict>
+</plist>
